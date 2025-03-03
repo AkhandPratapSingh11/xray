@@ -1,0 +1,12 @@
+bentoml
+torchvision
+joblib
+tqdm
+pip-chill
+wincertstore
+dvc
+mlflow
+ipykarnel
+pandas
+numpy
+seaborn
